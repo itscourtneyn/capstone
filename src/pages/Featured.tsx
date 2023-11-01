@@ -272,7 +272,7 @@ export default function Featured() {
           color="text.secondary"
           component="p"
         >
-          We encourage you to check out your local vineyards and wineries to learn more about the different types of wine, while supporting local businesses.
+          We encourage you to check out our community shared recipe page for more recipes ideas.
         </Typography>
       </Box>
       {/* End footer */}
